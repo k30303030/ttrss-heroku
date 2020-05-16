@@ -23,7 +23,7 @@
 	// *** Basic settings (important!) ***
 	// ***********************************
 
-	define('SELF_URL_PATH', 'https://'.$_SERVER['SERVER_NAME'].'/');
+	define('SELF_URL_PATH', 'https://tinytinyrsss.herokuapp.com');
 	// This should be set to a fully qualified URL used to access
 	// your tt-rss instance over the net.
 	// The value should be a constant string literal. Please don't use
